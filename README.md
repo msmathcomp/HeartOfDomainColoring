@@ -1,4 +1,4 @@
-![Example image showing a heart obtained via domain coloring, as shown in Figure 9 of the underlying paper.]([http://url/to/img.png](https://ms-math-computer.science/images/publications/2024_RLPS_HeartOfDomainColoring.png))
+![Example image showing a heart obtained via domain coloring, as shown in Figure 9 of the underlying paper.](https://ms-math-computer.science/images/publications/2024_RLPS_HeartOfDomainColoring.png)
 
 # HeartOfDomainColoring
 
